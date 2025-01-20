@@ -1,3 +1,3 @@
-# Smart Bus transport system
+# Smart Bus Transport System
 
-booking tickets by scanning qr code
+booking tickets by scanning QR code
